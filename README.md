@@ -324,7 +324,6 @@ int main(int argc, char **argv)
 }
 
 ## Output:
-
 <br>![output](./pca(ex4)a.png)
 <br>![output](./pca(ex4)b.png)
 
