@@ -325,6 +325,7 @@ int main(int argc, char **argv)
 
 ## Output:
 ![Screenshot 2023-06-14 104010](https://github.com/praveenmax55/PCA-Matrix-Addition-With-Unified-Memory/assets/113497509/f590cd05-3d47-4dfe-8e01-0cf0703006dd)
+![image](https://github.com/praveenmax55/PCA-Matrix-Addition-With-Unified-Memory/assets/113497509/b755305c-1e2f-45ca-bf8b-fb7a115fb284)
 
 
 ## Result:
